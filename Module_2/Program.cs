@@ -26,7 +26,6 @@ namespace Module_2
                 }
                 );
 
-            //Console.WriteLine(tour1.GetInfo());
 
             Menu.MainMenu();
 
