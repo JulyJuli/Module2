@@ -1,0 +1,6 @@
+D:\ALvlASPNet3Adv\Mod2\TouristicPropositions\TouristicPropositions\obj\Debug\TouristicPropositions.csprojAssemblyReference.cache
+D:\ALvlASPNet3Adv\Mod2\TouristicPropositions\TouristicPropositions\bin\Debug\TouristicPropositions.exe.config
+D:\ALvlASPNet3Adv\Mod2\TouristicPropositions\TouristicPropositions\bin\Debug\TouristicPropositions.exe
+D:\ALvlASPNet3Adv\Mod2\TouristicPropositions\TouristicPropositions\bin\Debug\TouristicPropositions.pdb
+D:\ALvlASPNet3Adv\Mod2\TouristicPropositions\TouristicPropositions\obj\Debug\TouristicPropositions.exe
+D:\ALvlASPNet3Adv\Mod2\TouristicPropositions\TouristicPropositions\obj\Debug\TouristicPropositions.pdb
