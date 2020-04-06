@@ -1,8 +1,5 @@
 ﻿using Module2_OlehHarmash.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Text;
 
 namespace Module2_OlehHarmash.VauchersBase
 {
