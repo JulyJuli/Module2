@@ -27,6 +27,9 @@ namespace VoucherOrder
             
             Console.WriteLine("\n-------------- Sorting By Price ----------------------------");
             voucherOrder.SortingByPrice();
+            
+            Console.WriteLine("\n-------------- Sorting By Country --------------------------");
+            voucherOrder.SortingByCountry();
         }
     }
 }

@@ -86,5 +86,17 @@ namespace VoucherOrder.classes
             Vouchers.Sort();
             Vouchers.ForEach(voucher => Console.WriteLine(voucher.ToString()));
         }
+        
+        public void SortingByCountry()
+        {
+            Vouchers.Sort(delegate(VoucherBase x, VoucherBase y)
+            {
+                if (x.Country == null && y.Country == null) return 0;
+                else if (x.Country == null) return -1;
+                else if (y.Country == null) return 1;
+                else return x.Country.CompareTo(y.Country);
+            });
+            Vouchers.ForEach(voucher => Console.WriteLine(voucher.ToString()));
+        }
     }
 }
