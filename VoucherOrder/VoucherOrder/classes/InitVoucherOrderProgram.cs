@@ -89,7 +89,7 @@ namespace VoucherOrder.classes
         
         public void SortingByCountry()
         {
-            Vouchers.Sort(delegate(VoucherBase x, VoucherBase y)
+            Vouchers.Sort((VoucherBase x, VoucherBase y) => 
             {
                 if (x.Country == null && y.Country == null) return 0;
                 else if (x.Country == null) return -1;
