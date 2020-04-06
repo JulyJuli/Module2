@@ -1,0 +1,6 @@
+C:\Users\e.repin\Desktop\Module2\Module2\Module0604\bin\Debug\Module0604.exe.config
+C:\Users\e.repin\Desktop\Module2\Module2\Module0604\bin\Debug\Module0604.exe
+C:\Users\e.repin\Desktop\Module2\Module2\Module0604\bin\Debug\Module0604.pdb
+C:\Users\e.repin\Desktop\Module2\Module2\Module0604\obj\Debug\Module0604.csprojAssemblyReference.cache
+C:\Users\e.repin\Desktop\Module2\Module2\Module0604\obj\Debug\Module0604.exe
+C:\Users\e.repin\Desktop\Module2\Module2\Module0604\obj\Debug\Module0604.pdb
